@@ -1,1 +1,1 @@
-Numero 1
+Número não definido
